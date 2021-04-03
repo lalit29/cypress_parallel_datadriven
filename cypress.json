@@ -1,0 +1,17 @@
+{
+  "watchForFileChanges": true,
+  "chromeWebSecurity ": false,
+  "viewportWidth": 1280,
+  "viewportHeight": 1000,
+
+  
+  "env": {
+    "username": "admin@phptravels.com",
+    "password": "demoadmin",
+    "host": "https://www.phptravels.net/admin",
+    "failSilently": false
+  },
+  "screenshotsFolder": "cypress/snapshots/actual",
+  "trashAssetsBeforeRuns": true,
+  "projectId": "dnvpsb"
+}
